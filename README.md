@@ -5,7 +5,8 @@ Estudiante de **Ingeniería en Software y Sistemas Computacionales** en la Unive
 - 🔭 Actualmente aprendo desarrollo móvil con **Flutter** y frontend con **React + TypeScript**.
 - 🧩 He trabajado con PHP, MySQL, C++, Python y React.
 - 📍 Querétaro, México
-- 📫 [LinkedIn](https://www.linkedin.com/in/juan-alexis-dev/) · <tu-correo>
+- 📫 [LinkedIn](https://www.linkedin.com/in/juan-alexis-dev/) · <juanalexismartinez557@gmail.com>
+
 
 ### Tecnologías
 
