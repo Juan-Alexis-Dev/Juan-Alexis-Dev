@@ -25,7 +25,7 @@ Estudiante de **Ingeniería en Software y Sistemas Computacionales** en la Unive
 
 | Proyecto | Descripción |
 |---|---|
-| [RentGo](https://github.com/<Juan-Alexis-Dev>/RentGo) | App web de renta de vehículos con roles, reservas, pagos y panel de administración (PHP, MySQL) |
-| [Compilador](https://github.com/<Juan-Alexis-Dev>/Compilador) | Analizador léxico, sintáctico y semántico con interfaz gráfica (C++) |
-| [Snake Evolution](https://github.com/<Juan-Alexis-Dev>/Serpiente) | Snake con modos de juego, 2 jugadores, tienda y leaderboard (C++/CLI) |
-| [Filtros faciales](https://github.com/<Juan-Alexis-Dev>/filtros-faciales) | Detección facial en tiempo real y filtro Sobel en el navegador (JavaScript, MediaPipe) |
+| [RentGo](https://github.com/Juan-Alexis-Dev/RentGo) | App web de renta de vehículos con roles, reservas, pagos y panel de administración (PHP, MySQL) |
+| [Compilador](https://github.com/Juan-Alexis-Dev/Compilador) | Analizador léxico, sintáctico y semántico con interfaz gráfica (C++) |
+| [Snake Evolution](https://github.com/Juan-Alexis-Dev/Serpiente) | Snake con modos de juego, 2 jugadores, tienda y leaderboard (C++/CLI) |
+| [Filtros faciales](https://github.com/Juan-Alexis-Dev/filtros-faciales) | Detección facial en tiempo real y filtro Sobel en el navegador (JavaScript, MediaPipe) |
